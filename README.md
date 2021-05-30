@@ -1,5 +1,5 @@
 # Attr-Hyperparams
-Easy parameter specification using DataDictClasses made using attr. It comes with following advantages compared to other parametrisation schemes (eg. jsons)
+Easy parameter specification using dataclasses made using the [attr](https://www.attrs.org/en/stable/) library. It comes with following advantages compared to other parametrisation schemes (eg. jsons)
 
 1.  No KeyErrors
 2.  Typed
